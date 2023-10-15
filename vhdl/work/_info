@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl
+Ebitcomparator
+Z1 w1697338167
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator.vhdl
+Z5 F/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator.vhdl
+l0
+L4
+V^V?BL2cNXXG:Z@?`Q=FcV1
+!s100 6H_S@NIn8`23N8[FZa7m`1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1697338173
+!i10b 1
+Z8 !s108 1697338173.000000
+Z9 !s90 -reportprogress|300|-work|work|/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator.vhdl|
+Z10 !s107 /home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator.vhdl|
+!i113 1
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+Z13 DEx4 work 13 bitcomparator 0 22 ^V?BL2cNXXG:Z@?`Q=FcV1
+l19
+L15
+VAAO<a0dF=4<7QfKa2Z_6D0
+!s100 7DdD;E2D@SVOlMPEC=H5Y3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebitcomparator_tb
+Z14 w1697337937
+R2
+R3
+R0
+Z15 8/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator_tb.vhdl
+Z16 F/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator_tb.vhdl
+l0
+L4
+V24@PRlLQLYgd;BEe0M;=J0
+!s100 117n[?>IoTHA<Jf[4HPI63
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator_tb.vhdl|
+Z18 !s107 /home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/comparator/vhdl/bitComparator_tb.vhdl|
+!i113 1
+R11
+R12
+Atestbench
+R13
+R2
+R3
+Z19 DEx4 work 16 bitcomparator_tb 0 22 24@PRlLQLYgd;BEe0M;=J0
+l13
+L7
+Z20 Vf_GSfc>=PPkb4]Vz1VP981
+Z21 !s100 D2C`36hb<<I9cA>OKJ0;_1
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
