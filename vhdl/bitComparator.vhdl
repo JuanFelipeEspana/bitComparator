@@ -17,6 +17,7 @@ architecture rtl of bitComparator is
   signal xorComp        :       std_logic_vector(3 downto 0);
   signal comp           :       std_logic_vector(4 downto 0);
 begin
+  
   xorComp <= a xor b;
   firstOne(4) <= '0';
   comp(4) <= '0';
@@ -28,8 +29,12 @@ begin
                '0';
   end generate;
   eq <= not firstOne(0);
-  lg <= comp(0);
-  ls <= not comp(0);
+  lg <= '0' when (not firstOne(0))='1' else
+        comp(0) when (sig and (a(3) xor b(3)))='0' else
+        not comp(0);
+  ls <= '0' when (not firstOne(0))='1' else
+        not comp(0) when (sig and (a(3) xor b(3)))='0' else
+        comp(0);
 end architecture rtl;
 
     

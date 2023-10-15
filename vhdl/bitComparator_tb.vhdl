@@ -304,7 +304,7 @@ begin
     port map(
       a => a_tb,
       b => b_tb,
-      sig => '0',
+      sig => '1',
       lg =>  lg_tb,
       eq => eq_tb,
       ls => ls_tb
